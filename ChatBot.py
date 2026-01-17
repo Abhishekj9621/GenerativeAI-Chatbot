@@ -4,7 +4,7 @@ import google.generativeai as genai
 st.markdown("Genrative AI Based ChatBot")
 st.sidebar.markdown("GenerativeAI ChatBot")
  
-GOOGLE_API_KEY = "AIzaSyCc9URHkeCbW3QJpXSJ9mIcUMrTPkmGgak"
+GOOGLE_API_KEY = "******************"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 
